@@ -1,0 +1,13 @@
+Date,Product,Region,Quantity,Unit_Price,Customer_Type,Revenue
+2026-01-05,Laptop,North,5,65000,Business,325000
+2026-01-12,Mouse,South,25,800,Individual,20000
+2026-01-20,Keyboard,East,15,2500,Business,37500
+2026-02-03,Laptop,West,4,65000,Business,260000
+2026-02-11,Monitor,North,8,18000,Individual,144000
+2026-02-19,Mouse,East,30,800,Individual,24000
+2026-03-02,Keyboard,South,20,2500,Business,50000
+2026-03-14,Laptop,North,6,65000,Business,390000
+2026-03-22,Monitor,West,10,18000,Individual,180000
+2026-04-04,Mouse,South,35,800,Individual,28000
+2026-04-16,Laptop,East,3,65000,Business,195000
+2026-04-28,Keyboard,West,18,2500,Business,45000
